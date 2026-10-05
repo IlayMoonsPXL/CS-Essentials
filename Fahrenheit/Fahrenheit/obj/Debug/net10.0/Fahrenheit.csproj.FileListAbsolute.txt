@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\bin\Debug\net10.0\Fahrenheit.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\bin\Debug\net10.0\Fahrenheit.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\bin\Debug\net10.0\Fahrenheit.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\bin\Debug\net10.0\Fahrenheit.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\bin\Debug\net10.0\Fahrenheit.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\refint\Fahrenheit.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\ref\Fahrenheit.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Fahrenheit\Fahrenheit\obj\Debug\net10.0\Fahrenheit.csproj.Up2Date

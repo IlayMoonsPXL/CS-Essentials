@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\bin\Debug\net10.0\Gemiddelde.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\bin\Debug\net10.0\Gemiddelde.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\bin\Debug\net10.0\Gemiddelde.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\bin\Debug\net10.0\Gemiddelde.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\bin\Debug\net10.0\Gemiddelde.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\refint\Gemiddelde.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\ref\Gemiddelde.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Gemiddelde\Gemiddelde\obj\Debug\net10.0\Gemiddelde.csproj.Up2Date

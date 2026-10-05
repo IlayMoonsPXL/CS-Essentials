@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\bin\Debug\net10.0\Leeftijd.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\bin\Debug\net10.0\Leeftijd.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\bin\Debug\net10.0\Leeftijd.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\bin\Debug\net10.0\Leeftijd.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\bin\Debug\net10.0\Leeftijd.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\refint\Leeftijd.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\ref\Leeftijd.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Leeftijd\Leeftijd\obj\Debug\net10.0\Leeftijd.csproj.Up2Date

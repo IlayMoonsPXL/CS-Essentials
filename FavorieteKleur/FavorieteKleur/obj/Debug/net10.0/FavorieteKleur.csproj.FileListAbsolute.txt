@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\bin\Debug\net10.0\FavorieteKleur.exe
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\bin\Debug\net10.0\FavorieteKleur.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\bin\Debug\net10.0\FavorieteKleur.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\bin\Debug\net10.0\FavorieteKleur.dll
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\bin\Debug\net10.0\FavorieteKleur.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.dll
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\refint\FavorieteKleur.dll
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\FavorieteKleur.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\ref\FavorieteKleur.dll
+C:\Users\ilaym\source\repos\CS-Essentials\FavorieteKleur\FavorieteKleur\obj\Debug\net10.0\Favoriet.FA96DFEC.Up2Date

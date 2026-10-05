@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\bin\Debug\net10.0\Pickaxes.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\bin\Debug\net10.0\Pickaxes.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\bin\Debug\net10.0\Pickaxes.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\bin\Debug\net10.0\Pickaxes.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\bin\Debug\net10.0\Pickaxes.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\refint\Pickaxes.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\ref\Pickaxes.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Pickaxes\Pickaxes\obj\Debug\net10.0\Pickaxes.csproj.Up2Date

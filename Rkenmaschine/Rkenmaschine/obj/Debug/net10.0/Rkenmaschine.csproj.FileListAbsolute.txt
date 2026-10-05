@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\bin\Debug\net10.0\Rkenmaschine.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\bin\Debug\net10.0\Rkenmaschine.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\bin\Debug\net10.0\Rkenmaschine.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\bin\Debug\net10.0\Rkenmaschine.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\bin\Debug\net10.0\Rkenmaschine.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\refint\Rkenmaschine.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmaschine.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\ref\Rkenmaschine.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Rkenmaschine\Rkenmaschine\obj\Debug\net10.0\Rkenmasc.34092AC0.Up2Date

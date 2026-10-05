@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rkenmaschine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF2BE4-4C65-4DD0-8426-A02C6C53D753}|Rkenmaschine\\Rkenmaschine.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\rkenmaschine\\rkenmaschine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF2BE4-4C65-4DD0-8426-A02C6C53D753}|Rkenmaschine\\Rkenmaschine.csproj|solutionrelative:rkenmaschine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rkenmaschine\\Rkenmaschine\\Program.cs",
+              "RelativeDocumentMoniker": "Rkenmaschine\\Program.cs",
+              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rkenmaschine\\Rkenmaschine\\Program.cs",
+              "RelativeToolTip": "Rkenmaschine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:51:09.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

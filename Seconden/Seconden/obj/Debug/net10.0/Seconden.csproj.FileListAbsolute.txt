@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\bin\Debug\net10.0\Seconden.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\bin\Debug\net10.0\Seconden.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\bin\Debug\net10.0\Seconden.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\bin\Debug\net10.0\Seconden.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\bin\Debug\net10.0\Seconden.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\refint\Seconden.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\ref\Seconden.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Seconden\Seconden\obj\Debug\net10.0\Seconden.csproj.Up2Date

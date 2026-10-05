@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\bin\Debug\net10.0\Frisdrank.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\bin\Debug\net10.0\Frisdrank.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\bin\Debug\net10.0\Frisdrank.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\bin\Debug\net10.0\Frisdrank.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\bin\Debug\net10.0\Frisdrank.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\refint\Frisdrank.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\ref\Frisdrank.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Frisdrank\Frisdrank\obj\Debug\net10.0\Frisdrank.csproj.Up2Date
