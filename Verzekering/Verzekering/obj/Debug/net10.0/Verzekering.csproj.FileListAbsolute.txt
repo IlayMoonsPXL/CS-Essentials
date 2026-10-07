@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\bin\Debug\net10.0\Verzekering.exe
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\bin\Debug\net10.0\Verzekering.deps.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\bin\Debug\net10.0\Verzekering.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\bin\Debug\net10.0\Verzekering.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\bin\Debug\net10.0\Verzekering.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\refint\Verzekering.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzekering.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\ref\Verzekering.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Verzekering\Verzekering\obj\Debug\net10.0\Verzeker.67114AA7.Up2Date

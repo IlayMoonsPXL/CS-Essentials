@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\bin\Debug\net10.0\Rekemachine2.exe
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\bin\Debug\net10.0\Rekemachine2.deps.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\bin\Debug\net10.0\Rekemachine2.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\bin\Debug\net10.0\Rekemachine2.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\bin\Debug\net10.0\Rekemachine2.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\refint\Rekemachine2.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemachine2.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\ref\Rekemachine2.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Rekemachine2\Rekemachine2\obj\Debug\net10.0\Rekemach.038B86D1.Up2Date

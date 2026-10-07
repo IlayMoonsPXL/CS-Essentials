@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PretParkcontrole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c61fae21bc17e970861008ee13fc0b097737bcc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+091d4a651d6e08f09abaf08f081b2ce6a5fd324b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PretParkcontrole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PretParkcontrole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

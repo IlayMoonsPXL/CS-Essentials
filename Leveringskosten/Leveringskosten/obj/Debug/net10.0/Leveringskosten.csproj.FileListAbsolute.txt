@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\bin\Debug\net10.0\Leveringskosten.exe
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\bin\Debug\net10.0\Leveringskosten.deps.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\bin\Debug\net10.0\Leveringskosten.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\bin\Debug\net10.0\Leveringskosten.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\bin\Debug\net10.0\Leveringskosten.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\refint\Leveringskosten.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Leveringskosten.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\ref\Leveringskosten.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Leveringskosten\Leveringskosten\obj\Debug\net10.0\Levering.730B8C8D.Up2Date

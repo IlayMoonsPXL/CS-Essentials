@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\bin\Debug\net10.0\Grootste getal.exe
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\bin\Debug\net10.0\Grootste getal.deps.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\bin\Debug\net10.0\Grootste getal.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\bin\Debug\net10.0\Grootste getal.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\bin\Debug\net10.0\Grootste getal.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\refint\Grootste getal.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste getal.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\ref\Grootste getal.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Grootste getal\Grootste getal\obj\Debug\net10.0\Grootste.49596409.Up2Date

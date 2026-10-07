@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Grootste getal/1.0.0": {
+        "runtime": {
+          "Grootste getal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grootste getal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

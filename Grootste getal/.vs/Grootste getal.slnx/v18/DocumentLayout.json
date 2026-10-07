@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD649187-C748-4513-9425-BCEBF9F333A9}|Grootste getal\\Grootste getal.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentielsoefenen\\grootste getal\\grootste getal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD649187-C748-4513-9425-BCEBF9F333A9}|Grootste getal\\Grootste getal.csproj|solutionrelative:grootste getal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\Program.cs",
+              "RelativeDocumentMoniker": "Grootste getal\\Program.cs",
+              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\Program.cs",
+              "RelativeToolTip": "Grootste getal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:58:25.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\bin\Debug\net10.0\Meerderjarig.exe
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\bin\Debug\net10.0\Meerderjarig.deps.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\bin\Debug\net10.0\Meerderjarig.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\bin\Debug\net10.0\Meerderjarig.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\bin\Debug\net10.0\Meerderjarig.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\refint\Meerderjarig.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.pdb
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderjarig.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\ref\Meerderjarig.dll
+C:\Users\ilaym\source\repos\CS-EssentielsOefenen\Meerderjarig\Meerderjarig\obj\Debug\net10.0\Meerderj.CF2BCC38.Up2Date
