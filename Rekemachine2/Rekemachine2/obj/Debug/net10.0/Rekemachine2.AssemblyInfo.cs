@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rekemachine2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc41966070a810a148ae8d45ae59f115d3f7664")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rekemachine2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rekemachine2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

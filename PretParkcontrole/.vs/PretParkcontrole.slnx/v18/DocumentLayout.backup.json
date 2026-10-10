@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\PretParkcontrole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC02FC64-7DDC-49FA-8EAA-08F7214F248E}|PretParkcontrole\\PretParkcontrole.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\pretparkcontrole\\pretparkcontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC02FC64-7DDC-49FA-8EAA-08F7214F248E}|PretParkcontrole\\PretParkcontrole.csproj|solutionrelative:pretparkcontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73827CF6-8A63-447E-078E-EA34AB0D331F}|PretParkcontrole\\PretParkcontrole.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\pretparkcontrole\\pretparkcontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73827CF6-8A63-447E-078E-EA34AB0D331F}|PretParkcontrole\\PretParkcontrole.csproj|solutionrelative:pretparkcontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "PretParkcontrole\\Program.cs",
               "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\PretParkcontrole\\PretParkcontrole\\Program.cs",
               "RelativeToolTip": "PretParkcontrole\\Program.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAAAI4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAI4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T06:43:07.435Z",
               "EditorCaption": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Rekemachine2\\Rekemachine2\\Rekemachine2.csproj",
+      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rekemachine2\\Rekemachine2\\Rekemachine2.csproj",
       "projectName": "Rekemachine2",
-      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Rekemachine2\\Rekemachine2\\Rekemachine2.csproj",
+      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rekemachine2\\Rekemachine2\\Rekemachine2.csproj",
       "packagesPath": "C:\\Users\\ilaym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Rekemachine2\\Rekemachine2\\obj\\",
+      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rekemachine2\\Rekemachine2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilaym\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\bin\Debug\net10.0\Galactic Express.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\bin\Debug\net10.0\Galactic Express.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\bin\Debug\net10.0\Galactic Express.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\bin\Debug\net10.0\Galactic Express.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\bin\Debug\net10.0\Galactic Express.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.sourcelink.json
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\refint\Galactic Express.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic Express.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\ref\Galactic Express.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Galactic Express\Galactic Express\obj\Debug\net10.0\Galactic.3052BF11.Up2Date

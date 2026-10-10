@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Rekemachine2\\",
+  "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rekemachine2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F0BE489-4F30-3A8D-9A94-A867268002AC}|Rekemachine2\\Rekemachine2.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentielsoefenen\\rekemachine2\\rekemachine2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F0BE489-4F30-3A8D-9A94-A867268002AC}|Rekemachine2\\Rekemachine2.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\rekemachine2\\rekemachine2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F0BE489-4F30-3A8D-9A94-A867268002AC}|Rekemachine2\\Rekemachine2.csproj|solutionrelative:rekemachine2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Rekemachine2\\Rekemachine2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rekemachine2\\Rekemachine2\\Program.cs",
               "RelativeDocumentMoniker": "Rekemachine2\\Program.cs",
-              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Rekemachine2\\Rekemachine2\\Program.cs",
+              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Rekemachine2\\Rekemachine2\\Program.cs",
               "RelativeToolTip": "Rekemachine2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
