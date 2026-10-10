@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\",
+  "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Grootste getal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD649187-C748-4513-9425-BCEBF9F333A9}|Grootste getal\\Grootste getal.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentielsoefenen\\grootste getal\\grootste getal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD649187-C748-4513-9425-BCEBF9F333A9}|Grootste getal\\Grootste getal.csproj|solutionrelative:grootste getal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C8E1073-3224-A118-BD52-1B424B1AA59F}|Grootste getal\\Grootste getal.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\grootste getal\\grootste getal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8E1073-3224-A118-BD52-1B424B1AA59F}|Grootste getal\\Grootste getal.csproj|solutionrelative:grootste getal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Grootste getal\\Grootste getal\\Program.cs",
               "RelativeDocumentMoniker": "Grootste getal\\Program.cs",
-              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\Program.cs",
+              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Grootste getal\\Grootste getal\\Program.cs",
               "RelativeToolTip": "Grootste getal\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

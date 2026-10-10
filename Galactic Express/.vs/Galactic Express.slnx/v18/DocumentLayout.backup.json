@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Galactic Express\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7380C45E-6BAB-46FA-A769-48F6E18D9613}|Galactic Express\\Galactic Express.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\galactic express\\galactic express\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7380C45E-6BAB-46FA-A769-48F6E18D9613}|Galactic Express\\Galactic Express.csproj|solutionrelative:galactic express\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\PretParkcontrole\\PretParkcontrole\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1939F487-7B97-B5E6-BD83-2B852856A804}|Galactic Express\\Galactic Express.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\galactic express\\galactic express\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1939F487-7B97-B5E6-BD83-2B852856A804}|Galactic Express\\Galactic Express.csproj|solutionrelative:galactic express\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -27,43 +24,9 @@
               "RelativeDocumentMoniker": "Galactic Express\\Program.cs",
               "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Galactic Express\\Galactic Express\\Program.cs",
               "RelativeToolTip": "Galactic Express\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T11:08:33.749Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "b121fedb-d0b3-4245-a7f5-48a26499806a",
-        "Display": 0,
-        "X": 700,
-        "Y": 161,
-        "Width": 628,
-        "Height": 743,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\PretParkcontrole\\PretParkcontrole\\Program.cs",
-              "RelativeDocumentMoniker": "..\\PretParkcontrole\\PretParkcontrole\\Program.cs",
-              "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\PretParkcontrole\\PretParkcontrole\\Program.cs",
-              "RelativeToolTip": "..\\PretParkcontrole\\PretParkcontrole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T11:17:57.739Z",
               "EditorCaption": ""
             }
           ]

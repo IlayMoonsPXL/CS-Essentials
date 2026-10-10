@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grootste getal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+858e37271b1df41b638163e2f3ad60ef353e7497")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grootste getal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grootste getal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\Grootste getal.csproj",
+      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Grootste getal\\Grootste getal\\Grootste getal.csproj",
       "projectName": "Grootste getal",
-      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\Grootste getal.csproj",
+      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Grootste getal\\Grootste getal\\Grootste getal.csproj",
       "packagesPath": "C:\\Users\\ilaym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Grootste getal\\Grootste getal\\obj\\",
+      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Grootste getal\\Grootste getal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilaym\\AppData\\Roaming\\NuGet\\NuGet.Config",
