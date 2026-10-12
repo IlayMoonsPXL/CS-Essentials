@@ -11,16 +11,24 @@ namespace Galactic_Express
             Console.Write("Geef u naam in: ");
             string name = Console.ReadLine().Trim();
 
-            Console.Write("Geef u besteming in minstens 3 letters : ");
-            string destination = Console.ReadLine().Trim();
-
            
-
-            if (destination.Length < 3)
+            string destination = "0";
+            bool destinationIsValid = false;
+            while(!destinationIsValid)
             {
-                Console.WriteLine("Geen geldige invoer waarden");
-                return;
+                Console.Write("Geef u besteming in minstens 3 letters : ");
+                destination = Console.ReadLine().Trim();
+                
+                 if (destination.Length < 3)
+                 {           
+                    Console.WriteLine("Geen geldige invoer waarden");                    
+                 }
+                 else
+                 {
+                    destinationIsValid = true;
+                 }                             
             }
+
             DateTime travelDate = new DateTime(2000, 01, 01);
             bool isgeldig = false;
             while (!isgeldig)
