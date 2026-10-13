@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj": {}
+    "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj": {
+    "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj",
+        "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj",
         "projectName": "Ondernemingsnummer",
-        "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj",
+        "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj",
         "packagesPath": "C:\\Users\\ilaym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Ondernemingsnummer\\Ondernemingsnummer\\obj\\",
+        "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilaym\\AppData\\Roaming\\NuGet\\NuGet.Config",

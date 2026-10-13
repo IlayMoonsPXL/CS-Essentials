@@ -74,7 +74,7 @@ namespace Galactic_Express
             decimal basic = 89.95m;
             decimal baggagefeePerKg = 1.75m;
 
-            decimal totalBaggageFee = weight * baggagefeePerKg;
+            decimal totalBaggageFee =Math.Round( weight * baggagefeePerKg, 2,MidpointRounding.AwayFromZero);
             decimal totalPrice = basic + totalBaggageFee;
 
             DateTime retourDate = travelDate.AddDays(7);
