@@ -1,0 +1,16 @@
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\bin\Debug\net10.0\Driehoek.exe
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\bin\Debug\net10.0\Driehoek.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\bin\Debug\net10.0\Driehoek.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\bin\Debug\net10.0\Driehoek.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\bin\Debug\net10.0\Driehoek.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.sourcelink.json
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\refint\Driehoek.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\ref\Driehoek.dll
+C:\Users\ilaym\source\repos\CS-Essentials\Driehoek\Driehoek\obj\Debug\net10.0\Driehoek.csproj.Up2Date
