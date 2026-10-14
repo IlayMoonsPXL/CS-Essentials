@@ -57,8 +57,8 @@ namespace Galactic_Express
             Random random = new Random();
             int number1 = random.Next(1, 13);
             int number2 = random.Next(1, 31);
-            int number3 = random.Next(1, 6);
-            int number4 = random.Next(1000, 9999);
+            int number3 = random.Next(1, 7);
+            int number4 = random.Next(1000, 10000);
 
             string code = destination[..3].ToUpper();
             string bookingscode = name.Replace(" ", "-");
@@ -66,7 +66,7 @@ namespace Galactic_Express
             decimal basic = 89.95m;
             decimal baggagefeePerKg = 1.75m;
 
-            decimal totalBaggageFee = weight * baggagefeePerKg;
+            decimal totalBaggageFee = Math.Round(weight * baggagefeePerKg, 2, MidpointRounding.AwayFromZero);
             decimal totalPrice = basic + totalBaggageFee;
 
             DateTime retourDate = travelDate.AddDays(7);
@@ -79,7 +79,7 @@ namespace Galactic_Express
             StringBuilder bp = new StringBuilder();
             bp.AppendLine(" ==================================                    ");
             bp.AppendLine("          GALACTIC EXPRESS                             ");
-            bp.AppendLine("           GALAXY EXPRESS                              ");
+            bp.AppendLine("            BORDINGPASS                                ");
             bp.AppendLine(" ==================================                    ");
             bp.AppendLine("                                                       ");
             bp.AppendLine($"reiziger            :{name}                           ");
