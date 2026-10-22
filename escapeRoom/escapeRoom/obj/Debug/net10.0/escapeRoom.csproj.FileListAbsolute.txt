@@ -1,0 +1,15 @@
+C:\Users\Public\labo\escapeRoom\escapeRoom\bin\Debug\net10.0\escapeRoom.exe
+C:\Users\Public\labo\escapeRoom\escapeRoom\bin\Debug\net10.0\escapeRoom.deps.json
+C:\Users\Public\labo\escapeRoom\escapeRoom\bin\Debug\net10.0\escapeRoom.runtimeconfig.json
+C:\Users\Public\labo\escapeRoom\escapeRoom\bin\Debug\net10.0\escapeRoom.dll
+C:\Users\Public\labo\escapeRoom\escapeRoom\bin\Debug\net10.0\escapeRoom.pdb
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.AssemblyInfoInputs.cache
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.AssemblyInfo.cs
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.dll
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\refint\escapeRoom.dll
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.pdb
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.genruntimeconfig.cache
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\ref\escapeRoom.dll
+C:\Users\Public\labo\escapeRoom\escapeRoom\obj\Debug\net10.0\escapeRoom.csproj.Up2Date
