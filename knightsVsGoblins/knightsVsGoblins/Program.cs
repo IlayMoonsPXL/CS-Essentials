@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.Design;
+using System.Transactions;
 
 namespace knightsVsGoblins
 {
@@ -7,8 +8,10 @@ namespace knightsVsGoblins
         static void Main(string[] args)
         {
             int knightHealth = 0;
+            int KnightAttack;
             int goblinHealth;
             int goblinAttack;
+
 
            Random healthtBar = new Random();
             goblinHealth = healthtBar.Next(1, 101);
@@ -49,12 +52,13 @@ namespace knightsVsGoblins
 
 
                 while (knightHealth > 0 && goblinHealth > 0) 
-                {
+                {                   
                     Random attack = new Random();
                     goblinAttack = attack.Next(5, 17);
+                
+                    KnightAttack = attack.Next(8, 12);
 
-
-                    Console.WriteLine("choose your next move carefully ");
+                Console.WriteLine("choose your next move carefully ");
                     Console.WriteLine();
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("1. Attack");
@@ -66,13 +70,18 @@ namespace knightsVsGoblins
                     Console.ForegroundColor = ConsoleColor.DarkBlue;
                     Console.WriteLine("3. poisen ");
                     Console.WriteLine();
-                   Console.ResetColor();
+                    Console.ResetColor();
+
+                    Console.ForegroundColor = ConsoleColor.DarkBlue;
+                    Console.WriteLine("0. STOP ");
+                    Console.WriteLine();
+                    Console.ResetColor();
 
                 Console.Write("Enter the number of your choice: ");
                     Console.WriteLine();
 
                 if (!int.TryParse(Console.ReadLine(), out int choice)
-                        || choice < 1 || choice > 3 )
+                        || choice < 0 || choice > 3 )
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("invalid values ​​- 5 health");
@@ -89,10 +98,10 @@ namespace knightsVsGoblins
                     }
 
                     switch (choice)
-                    {                
+                    {      
                         case 1:
                             choice = 1;
-                            goblinHealth -= 10;
+                            goblinHealth -= KnightAttack;
                             knightHealth -= goblinAttack;
                             Console.ForegroundColor = ConsoleColor.Magenta;
                             Console.WriteLine("You attaced the goblin for 10 damage!");
@@ -139,6 +148,13 @@ namespace knightsVsGoblins
 
                         break;
 
+                    case 0:
+                        Console.WriteLine("You quit the game");
+                        Console.WriteLine("Press any key to continue");
+                        Console.ReadKey();
+                        return;
+
+
 
 
 
@@ -161,7 +177,7 @@ namespace knightsVsGoblins
 
             
             
-
+            
 
 
         }
