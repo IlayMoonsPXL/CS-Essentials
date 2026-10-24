@@ -8,7 +8,9 @@
                 ShowTitle();
                 ShowIntro();
                 StartGame();
-            
+               
+
+
 
         }
         static void StartGame()
@@ -30,7 +32,12 @@
                 {
                     case 1:
                         keypadSolved = TryKeypad();
+                        if (!keypadSolved)
+                        {
+                            timeLeft = ApplyPenalty(timeLeft, 2);
+                        }
                         break;
+                   
                 }
 
             } while (action != 9) ;

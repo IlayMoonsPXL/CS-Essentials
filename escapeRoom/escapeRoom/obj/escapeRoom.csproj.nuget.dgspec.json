@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\labo\\escapeRoom\\escapeRoom\\escapeRoom.csproj": {}
+    "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\escapeRoom\\escapeRoom\\escapeRoom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\labo\\escapeRoom\\escapeRoom\\escapeRoom.csproj": {
+    "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\escapeRoom\\escapeRoom\\escapeRoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\labo\\escapeRoom\\escapeRoom\\escapeRoom.csproj",
+        "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\escapeRoom\\escapeRoom\\escapeRoom.csproj",
         "projectName": "escapeRoom",
-        "projectPath": "C:\\Users\\Public\\labo\\escapeRoom\\escapeRoom\\escapeRoom.csproj",
+        "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\escapeRoom\\escapeRoom\\escapeRoom.csproj",
         "packagesPath": "C:\\Users\\ilaym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\labo\\escapeRoom\\escapeRoom\\obj\\",
+        "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\escapeRoom\\escapeRoom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilaym\\AppData\\Roaming\\NuGet\\NuGet.Config",
