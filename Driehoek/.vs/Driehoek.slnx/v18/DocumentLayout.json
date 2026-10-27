@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Driehoek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E83A1CC-A361-4737-AAFF-6570F534B58C}|Driehoek\\Driehoek.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\driehoek\\driehoek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E83A1CC-A361-4737-AAFF-6570F534B58C}|Driehoek\\Driehoek.csproj|solutionrelative:driehoek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B6965A3-7BA0-C206-361C-41FF31D9EA88}|Driehoek\\Driehoek.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\driehoek\\driehoek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6965A3-7BA0-C206-361C-41FF31D9EA88}|Driehoek\\Driehoek.csproj|solutionrelative:driehoek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

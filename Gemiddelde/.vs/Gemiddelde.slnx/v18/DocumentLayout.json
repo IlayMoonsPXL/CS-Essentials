@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Gemiddelde\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F91F3F-4DCA-452B-8FD1-4E84BCB62512}|Gemiddelde\\Gemiddelde.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\gemiddelde\\gemiddelde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F91F3F-4DCA-452B-8FD1-4E84BCB62512}|Gemiddelde\\Gemiddelde.csproj|solutionrelative:gemiddelde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E03ED536-0AF3-3A57-BA8C-978A6B964220}|Gemiddelde\\Gemiddelde.csproj|c:\\users\\ilaym\\source\\repos\\cs-essentials\\gemiddelde\\gemiddelde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03ED536-0AF3-3A57-BA8C-978A6B964220}|Gemiddelde\\Gemiddelde.csproj|solutionrelative:gemiddelde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Gemiddelde\\Program.cs",
               "ToolTip": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Gemiddelde\\Gemiddelde\\Program.cs",
               "RelativeToolTip": "Gemiddelde\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T09:21:52.142Z",
               "EditorCaption": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Leveringskosten\\Leveringskosten\\Leveringskosten.csproj",
+      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Leveringskosten\\Leveringskosten\\Leveringskosten.csproj",
       "projectName": "Leveringskosten",
-      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Leveringskosten\\Leveringskosten\\Leveringskosten.csproj",
+      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Leveringskosten\\Leveringskosten\\Leveringskosten.csproj",
       "packagesPath": "C:\\Users\\ilaym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Leveringskosten\\Leveringskosten\\obj\\",
+      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Leveringskosten\\Leveringskosten\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilaym\\AppData\\Roaming\\NuGet\\NuGet.Config",

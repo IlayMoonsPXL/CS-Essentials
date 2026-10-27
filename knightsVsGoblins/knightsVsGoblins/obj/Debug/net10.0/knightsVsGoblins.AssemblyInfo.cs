@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("knightsVsGoblins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+892574c72733714ceeb5688ea2a87441c3c6e141")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1efe397c003b434b8c659867ef4ba75bb236f7ad")]
+>>>>>>> 9105a08 (fill update)
 [assembly: System.Reflection.AssemblyProductAttribute("knightsVsGoblins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("knightsVsGoblins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

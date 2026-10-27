@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leveringskosten")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1efe397c003b434b8c659867ef4ba75bb236f7ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leveringskosten")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leveringskosten")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

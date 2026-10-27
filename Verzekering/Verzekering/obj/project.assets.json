@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Verzekering\\Verzekering\\Verzekering.csproj",
+      "projectUniqueName": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Verzekering\\Verzekering\\Verzekering.csproj",
       "projectName": "Verzekering",
-      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Verzekering\\Verzekering\\Verzekering.csproj",
+      "projectPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Verzekering\\Verzekering\\Verzekering.csproj",
       "packagesPath": "C:\\Users\\ilaym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-EssentielsOefenen\\Verzekering\\Verzekering\\obj\\",
+      "outputPath": "C:\\Users\\ilaym\\source\\repos\\CS-Essentials\\Verzekering\\Verzekering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilaym\\AppData\\Roaming\\NuGet\\NuGet.Config",
