@@ -1,0 +1,16 @@
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\bin\Debug\net10.0\oefenenenVoorPe.exe
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\bin\Debug\net10.0\oefenenenVoorPe.deps.json
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\bin\Debug\net10.0\oefenenenVoorPe.runtimeconfig.json
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\bin\Debug\net10.0\oefenenenVoorPe.dll
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\bin\Debug\net10.0\oefenenenVoorPe.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.AssemblyInfoInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.AssemblyInfo.cs
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.csproj.CoreCompileInputs.cache
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.sourcelink.json
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.dll
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\refint\oefenenenVoorPe.dll
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.pdb
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenenenVoorPe.genruntimeconfig.cache
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\ref\oefenenenVoorPe.dll
+C:\Users\ilaym\source\repos\CS-Essentials\oefenenenVoorPe\oefenenenVoorPe\obj\Debug\net10.0\oefenene.2DDD419B.Up2Date

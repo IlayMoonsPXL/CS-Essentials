@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("knightsVsGoblins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67342db39eca7443b96d9a22e938c29c932ecb1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+892574c72733714ceeb5688ea2a87441c3c6e141")]
 [assembly: System.Reflection.AssemblyProductAttribute("knightsVsGoblins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("knightsVsGoblins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
