@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Text;
 
 namespace oefenenenVoorPe
 {
@@ -15,13 +16,18 @@ namespace oefenenenVoorPe
             while (keuze != 0)
             {
                 Console.Clear();
-                Console.WriteLine("Welkom bij FunPark");
-                Console.WriteLine($"Datum: {DateTime.Today:dd-MM-yyyy}");
-                Console.WriteLine($"Totaal aantal tickets verkocht: {totalTicketsSold}");
-                Console.WriteLine("__________________________________");
-                Console.WriteLine("1) Nieuwe bestelling");
-                Console.WriteLine("0) Afsluiten");
-                Console.Write("Maak uw keuze: ");
+
+                StringBuilder sb = new StringBuilder();
+
+                sb.AppendLine("Welkom bij FunPark");
+                sb.AppendLine($"Datum: {DateTime.Today:dd-MM-yyyy}");
+                sb.AppendLine($"Totaal aantal tickets verkocht: {totalTicketsSold}");
+                sb.AppendLine("__________________________________");
+                sb.AppendLine("1) Nieuwe bestelling");
+                sb.AppendLine("0) Afsluiten");
+                sb.Append("Maak uw keuze: ");
+
+                Console.Write(sb.ToString());
 
                 if (!int.TryParse(Console.ReadLine(), out keuze))
                 {
@@ -44,7 +50,8 @@ namespace oefenenenVoorPe
                     {
                         Console.Write("Bezoekdatum (dd-MM-yyyy): ");
 
-                        if (DateTime.TryParse(Console.ReadLine(), out visitDate)
+                        if (DateTime.TryParse(
+                                Console.ReadLine(), out visitDate)
                             && visitDate.Date >= DateTime.Today
                             && visitDate.Date <= DateTime.Today.AddMonths(1))
                         {
@@ -54,8 +61,7 @@ namespace oefenenenVoorPe
                         {
                             ShowText(
                                 "Ongeldige datum. Kies vandaag of een datum tot maximaal 1 maand vooruit.",
-                                ConsoleColor.Red
-                            );
+                                ConsoleColor.Red);
                         }
 
                     } while (!validDate);
@@ -66,25 +72,29 @@ namespace oefenenenVoorPe
                     {
                         Console.Write("Aantal tickets: ");
 
-                        if (!int.TryParse(Console.ReadLine(), out ticketCount)
+                        if (!int.TryParse(
+                                Console.ReadLine(), out ticketCount)
                             || ticketCount <= 0)
                         {
                             ShowText(
                                 "Geef een geldig aantal tickets in.",
-                                ConsoleColor.Red
-                            );
+                                ConsoleColor.Red);
                             ticketCount = 0;
                         }
 
                     } while (ticketCount <= 0);
 
-                    PlaceOrder(random, visitDate, ticketCount,
+                    PlaceOrder(
+                        random,
+                        visitDate,
+                        ticketCount,
                         out int ticketsSold);
 
                     totalTicketsSold += ticketsSold;
 
                     Console.WriteLine();
-                    Console.WriteLine("Druk op een toets om verder te gaan...");
+                    Console.WriteLine(
+                        "Druk op een toets om verder te gaan...");
                     Console.ReadKey();
                 }
                 else if (keuze != 0)
@@ -125,11 +135,11 @@ namespace oefenenenVoorPe
                 price = 18M;
             }
 
-            // Controleer of de bezoekdatum in het weekend valt.
+            
             if (date.DayOfWeek == DayOfWeek.Saturday
                 || date.DayOfWeek == DayOfWeek.Sunday)
             {
-                price = price * 1.20M;
+                price *= 1.20M;
             }
 
             return price;
@@ -157,13 +167,14 @@ namespace oefenenenVoorPe
                 {
                     Console.Write($"Leeftijd van bezoeker {i}: ");
 
-                    if (!int.TryParse(Console.ReadLine(), out visitorAge)
+                    if (!int.TryParse(
+                            Console.ReadLine(), out visitorAge)
                         || visitorAge < 0 || visitorAge > 120)
                     {
                         ShowText(
                             "Ongeldige ingave. Geef een leeftijd tussen 0 en 120.",
-                            ConsoleColor.Red
-                        );
+                            ConsoleColor.Red);
+
                         visitorAge = -1;
                     }
 
@@ -180,7 +191,9 @@ namespace oefenenenVoorPe
             int orderCode = GenerateOrderCode(random);
 
             Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("==== FUNPARK ====");
+            Console.ResetColor();
             Console.WriteLine($"Bestelcode: FP-{orderCode}");
             Console.WriteLine($"Bezoekdatum: {visitDate:dd-MM-yyyy}");
             Console.WriteLine($"Aantal tickets: {ticketCount}");
